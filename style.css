@@ -1,0 +1,27 @@
+.header {
+    color: white;
+    background-color:rgb(53, 52, 52);
+    margin-top: 0px;
+}
+
+#card1 {
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.bla {
+    margin: 15px;
+    margin-left: 0px;
+    max-width: 10rem;
+    min-width: 8rem;
+}
+
+.card {
+    font-size: 14px;
+}
+
+.card-body img {
+    max-width: 20px;
+    max-height: 20px;
+}
+
